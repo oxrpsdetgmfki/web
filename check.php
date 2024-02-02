@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect('host', 'user', 'pass'); //host, user, pass
+$link = mysqli_connect('host', 'admin', 'ylr6uy518qmqiqk6'); //host, user, pass
 
 $database = mysqli_select_db($link, "db_name"); //Set here your db name
 
